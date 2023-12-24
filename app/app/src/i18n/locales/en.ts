@@ -3,6 +3,8 @@ const defaultLocale =
 	'What is {0}?',
 	'Visit our website',
 	'Join our Discord',
+	'A platform that allows you to place pixels throughout the year to make a final fresco like the r/place of reddit but in our own way.',
+	'So, if you are in love with pixel art, see you in 2024!',
 ] as const
 
 type Keys = typeof defaultLocale[number]
